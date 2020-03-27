@@ -19,6 +19,7 @@ public class DockerController {
 // String str3= new StringBuilder("计算机软件").toString();
 
             System.out.println(str1.equals(str1.intern()));
+            System.out.println(str1.equals(str1.intern()));
 
             String str2 = "Java(TM) SE sssssssssss";
 
