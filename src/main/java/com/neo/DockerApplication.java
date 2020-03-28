@@ -7,8 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DockerApplication {
 
 	public static void main(String[] args) {
-System.out.println("sss");
-		
+
+		System.out.println("sssss");
+
 		SpringApplication.run(DockerApplication.class, args);
 	}
 }
