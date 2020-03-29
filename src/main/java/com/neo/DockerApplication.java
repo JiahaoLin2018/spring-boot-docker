@@ -16,9 +16,10 @@ public class DockerApplication {
 		System.out.println("sssss");
 		System.out.println("sssss");
 		System.out.println("sssss11");
-		System.out.println("sssss111");
-		System.out.println("sssss11133");
-		System.out.println("sssss111334");
+		System.out.println("sssss111测试1");
+		System.out.println("sssss11133测试1");
+		System.out.println("sssss111334测试1");
+		System.out.println("sssss1233mster");
 
 		SpringApplication.run(DockerApplication.class, args);
 	}
