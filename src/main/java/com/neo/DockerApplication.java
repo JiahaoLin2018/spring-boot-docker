@@ -15,6 +15,7 @@ public class DockerApplication {
 		System.out.println("sssss");
 		System.out.println("sssss");
 		System.out.println("sssss");
+		System.out.println("sssss11");
 
 		SpringApplication.run(DockerApplication.class, args);
 	}
